@@ -1,3 +1,5 @@
+Note - Repo used for dotfiles https://github.com/Harvey-Mackie/dotfiles
+
 Aim - Curious about NeoVim, get it working and document how it works.
 
 # Useful Videos
