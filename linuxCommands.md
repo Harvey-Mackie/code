@@ -1,5 +1,10 @@
+
 # List of Commands
 
+## Install Software
+```shell
+$ brew install spotify
+```
 ## Viewing and Editing
 - View contents of file - `cat [file]`
 - Edit contents of file - `nano [file]`
@@ -13,7 +18,7 @@
 - Remove folder/file
 	- `rm [file]`
 	- `rmdir [folder]`
-
+	- Force remove - `rm -rf [folder]`
  
 ## Downloading Libraries
 - Homebrew is used for managing packages [Link](https://brew.sh/) 

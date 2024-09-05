@@ -1,3 +1,15 @@
+
+## Operations
+### For Loop within range
+https://www.programiz.com/swift-programming/for-in-loop
+```swift 
+for i in 0...24 {
+	print(i)
+}
+```
+
+
+
 # Types
 
 #### Strings
@@ -39,6 +51,9 @@ Can find a full list of available emojis/icons at SF Symbols (app installed)
 ```swift
 Label("", systemImage: "clock.badge.checkmark.fill")
 ```
+##### Working with Charts
+https://developer.apple.com/documentation/charts/creating-a-chart-using-swift-charts
+https://developer.apple.com/documentation/charts/customizing-axes-in-swift-charts
 
 
 # Testing
