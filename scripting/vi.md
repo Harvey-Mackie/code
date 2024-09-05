@@ -13,6 +13,8 @@ Cheat Sheet - https://vim.rtorr.com
 - yiw - copy current word
 - ggVG (select file) + y (copy) - copy full document
 - VG + y - copy from cursor down
+- V - Enter visual mode. This will start highlighting lines, then click 'y' to copy to clipboard
+
 
 ## Add new line below existing
 Press `o`
