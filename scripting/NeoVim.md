@@ -1,3 +1,9 @@
+---
+id: NeoVim
+aliases: []
+tags: []
+---
+
 Note - Repo used for dotfiles https://github.com/Harvey-Mackie/dotfiles
 
 Aim - Curious about NeoVim, get it working and document how it works.
@@ -24,7 +30,13 @@ Unsorted
 - space + space - search for files in root directory (home)
 - Lazy sync - sync config files/plugins
 
-##### Plugins
+##### plugins
+
+###### telescope
+Used for 'find files' and the 'grep' feature. Displays a UI of all the files which match your filter.
+
+Useful Commands:
+- When searching for a file, use CTRL + D | U to scroll the file in the preview
 
 
 ###### lazygit

@@ -1,3 +1,11 @@
+---
+id: kafka
+aliases: []
+tags: []
+---
+
+[[seniorConceptsToResearch]]
+
 ## **Key Concepts**
 
 - **Kafka Broker**: Acts as the central point for message distribution, hosting various topics within which the data is organized.
