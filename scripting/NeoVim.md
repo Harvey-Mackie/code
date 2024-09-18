@@ -27,8 +27,16 @@ Unsorted
 
 ##### Commands
 - [space] + [f] - search for files in current folder space
-- space + space - search for files in root directory (home)
+- space + space - search for files in root directory (home) 
 - Lazy sync - sync config files/plugins
+
+#### tinkering
+
+##### java integration 
+http://www.lazyvim.org/extras/lang/java
+You can use Java - I'm working on getting this working, appears to be a bit tricky due to the `jdtls`
+
+
 
 ##### plugins
 
